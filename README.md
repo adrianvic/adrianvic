@@ -15,7 +15,7 @@ Hello, world! I'm Tenkuma (or Adrian)
 - Currently learning **C#**
 - Interested in **hacking**, **automation**, and other cool stuff
 ## Stuff I use
-Any software solution that I may use/can use to program
+Any software solution that I may/can use to program
 ### Languages
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="C#" alt="C#" width="40" height="40"/>
