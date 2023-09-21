@@ -11,9 +11,9 @@
 </div>
 
 Hello, world! I'm Tenkuma (or Adrian)
-## What's going on
-- Currently learning **C#**
-- Interested in **hacking**, **automation**, and other cool stuff
+## I'm...
+- ...currently learning **C#**
+- ...interested in **hacking**, **automation**, and other cool stuff
 ## Stuff I use
 Any software solution that I may/can use to program
 ### Languages
