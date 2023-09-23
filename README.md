@@ -12,8 +12,7 @@
 
 Hello, world! I'm Tenkuma (or Adrian)
 ## I'm...
-- ...currently learning **C#**
-- ...interested in **hacking**, **automation**, and other cool stuff
+- ...currently learning **C++**
 ## Stuff I use
 Any software solution that I may/can use to program
 ### Languages
