@@ -1,8 +1,8 @@
 # Me
 
 <div id="badges">
-  <a href="https://www.youtube.com/@tenkuma">
-  <img src="https://img.shields.io/badge/Tenkuma-black?logo=youtube&logoColor=red&style=flat-square" alt="Tenkuma at YouTube"/>
+  <a href="https://www.youtube.com/@adrian_vic">
+  <img src="https://img.shields.io/badge/Lumi-black?logo=youtube&logoColor=red&style=flat-square" alt="Tenkuma at YouTube"/>
   </a>
   <a href="discordapp.com/users/681643259764015116">
   <img src="https://img.shields.io/badge/@tenkuma.-black?logo=discord&logoColor=blue&style=flat-square" alt="Tenkuma at Discord"/>
@@ -31,3 +31,5 @@ By now everything I do here is a hobby, but I have plans for the future that inc
 - Andrew of Endermanch
 - Gabriel Pato (Ethical hacker)
 
+## Donations
+I don't accept donations, there's a lot of people doing a better work than me, when I start making something serious I may accept donations
