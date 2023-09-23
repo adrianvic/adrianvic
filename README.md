@@ -10,31 +10,24 @@
   <img <img src="https://komarev.com/ghpvc/?username=adrianvic&style=flat-square&color=gray"/>
 </div>
 
-Hello, world! I'm Tenkuma (or Adrian)
+Hello, world! I'm Tenkuma (or Adrian), I love programming, music and literature, but I'm currently focusing in programming.
+Well, I can't say I'm a expert in any language but I can do something in C#, Visual Basic and work with Discord.JS, you can expect some small projects in C++ as I recently started learning it.
+By now everything I do here is a hobby, but I have plans for the future that includes programming in a professional way.
+
+## My personal values
+- I love the concept of "Open source", like, if my code isn't good enough for you, you can always improve it your own way. That's why I'll try to make all my code public for the final user
+- I like the concept of minimalism, from the code to the UI
+- I think that malware is a toy, when not used as a weapon
+
 ## I'm...
 - ...currently learning **C++**
-## Stuff I use
-Any software solution that I may/can use to program
-### Languages
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="C#" alt="C#" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/xamarin/xamarin-original.svg" title="Xamarin" alt="Xamarin" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/discordjs/discordjs-original.svg" title="Discord.JS" alt="Discord.JS" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" alt="Markdown" width="40" height="40"/>
-</div>
+- ...not focused in any big project
 
-### Software/IDEs
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" alt="Visual Studio" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" title="Wordpress" alt="Wordpress" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-plain.svg" title="Chrome" alt="Chrome" width="40" height="40"/>
-</div>
+## The future
+- After learning C++ I plan to learn C and Pascal
+- I want to learn how to make music
 
-### OSses
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg" title="Android" alt="Android" width="40" height="40"/>
-</div>
-(Yes, you can program on Android, I made a whole text-based game engine with it)
+## My inspirations
+- Andrew of Endermanch
+- Gabriel Pato (Ethical hacker)
+
