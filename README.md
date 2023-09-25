@@ -10,7 +10,7 @@
   <img <img src="https://komarev.com/ghpvc/?username=adrianvic&style=flat-square&color=gray"/>
 </div>
 
-Hello, world! I'm Lumi (or Adrian), I love programming, music and literature, but I'm currently focusing in programming.
+Hello, world! I'm Lumi (or Adrian), a 15 years old programmer, also music and literature lover.
 Well, I can't say I'm a expert in any language but I can do something in C#, Visual Basic and work with Discord.JS, you can expect some small projects in C++ as I recently started learning it.
 By now everything I do here is a hobby, but I have plans for the future that includes programming in a professional way.
 
@@ -24,12 +24,9 @@ By now everything I do here is a hobby, but I have plans for the future that inc
 - ...not focused in any big project
 
 ## The future
-- After learning C++ I plan to learn C and Pascal
+- After learning C++ I plan to learn C, Java and Pascal
 - I want to learn how to make music
 
 ## My inspirations
 - Andrew of Endermanch
 - Gabriel Pato (Ethical hacker)
-
-## Donations
-I don't accept donations, there's a lot of people doing a better work than me, when I start making something serious I may accept donations
