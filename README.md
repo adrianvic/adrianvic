@@ -2,10 +2,10 @@
 
 <div id="badges">
   <a href="https://www.youtube.com/@adrian_vic">
-  <img src="https://img.shields.io/badge/Lumi-black?logo=youtube&logoColor=red&style=flat-square" alt="Tenkuma at YouTube"/>
+  <img src="https://img.shields.io/badge/YouTube-black?logo=youtube&logoColor=red&style=flat-square" alt="Midori at YouTube"/>
   </a>
   <a href="discordapp.com/users/681643259764015116">
-  <img src="https://img.shields.io/badge/@tenkuma.-black?logo=discord&logoColor=blue&style=flat-square" alt="Tenkuma at Discord"/>
+  <img src="https://img.shields.io/badge/Discord-black?logo=discord&logoColor=blue&style=flat-square" alt="Midori at Discord"/>
   </a>
   <img <img src="https://komarev.com/ghpvc/?username=adrianvic&style=flat-square&color=gray"/>
 </div>
