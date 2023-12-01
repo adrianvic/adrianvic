@@ -10,7 +10,7 @@
   <img <img src="https://komarev.com/ghpvc/?username=adrianvic&style=flat-square&color=gray"/>
 </div>
 
-Hello, world! I'm Adrian, a 15 years old programmer, I also like music and literature lover.
+Hello, world! I'm Adrian, a 15 years old programmer, I also like music and literature.
 Well, I can't say I'm a expert in any language but I can do something in C#, Visual Basic and work with Discord.JS, you can expect some small projects in C++ as I recently started learning it.
 By now everything I do here is a hobby, but I have plans for the future that includes programming professionally.
 
