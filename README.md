@@ -11,17 +11,16 @@
 </div>
 
 Hello, world! I'm Adrian, a 15 years old programmer, I also like music and literature.
-Well, I can't say I'm a expert in any language but I can do something in C#, Visual Basic and work with Discord.JS, you can expect some small projects in C++ as I recently started learning it.
-By now everything I do here is a hobby, but I have plans for the future that includes programming professionally.
+Well, I can't say I'm a expert in any language but I can do something in C#, Visual Basic and work with Discord.JS.
+Learning programming at https://ifc.edu.br/, expect something cool as I learn.
 
 ## I'm...
-- ...currently learning **C++**
-- ...not focused in any big project
+- ...not focused in any big project.
 
-## The future
-- After learning C++ I plan to learn C, Java and Pascal
-- I want to learn how to make music
+## Plans
+- I plan to learn C++, C, JS, Java and Pascal;
+- I want to learn music production.
 
 ## My inspirations
-- Andrew of Endermanch
-- Gabriel Pato (Ethical hacker)
+- Andrew (Endermanch, YouTuber);
+- Gabriel Pato (Ethical hacker).
