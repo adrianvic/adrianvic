@@ -11,10 +11,10 @@
 </div>
 
 Hello, world! I'm Adrian, a 15 years old programmer, I also like music and literature.
-Well, I can't say I'm a expert in any language but I can do something in C#, Visual Basic and work with Discord.JS.
-Learning computing and IT at https://ifc.edu.br/, expect something cool as I learn.
+I'm a newbie but I can do something in C#, Visual Basic.
 
 ## I'm...
+- ...studying Computing at IFCC (Santa Catarina, Brazil)
 - ...not focused in any big project.
 
 ## Plans
