@@ -1,8 +1,6 @@
 # Start
 
 <div id="badges">
-  <img src="https://img.shields.io/badge/YouTube-black?logo=youtube&logoColor=red&style=flat-square" alt="Midori at YouTube"/>
-  </a>
   <a href="discordapp.com/users/681643259764015116">
   <img src="https://img.shields.io/badge/Discord-black?logo=discord&logoColor=blue&style=flat-square" alt="Midori at Discord"/>
   </a>
