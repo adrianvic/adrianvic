@@ -6,15 +6,16 @@
 </div>
 
 Hello, world!
+I am Adrian Victor, currently 16 years old and learning a lot about programming. I'm a computing entusiast with focus on FOSS, information security and in building a strong foundation of programming knowledge to allow me have my own projects among a good portfolio.
 
 ## I'm...
 - ...studying Computing at IFCC (Santa Catarina, Brazil)
 - ...not focused in any big project.
 - ...learning Java, Python and MySQL.
+- ...learning music production.
 
 ## Plans
 - I plan to learn Rust, C++, C, and Pascal;
-- I want to learn music production.
 
 ## My inspirations
 - @endermanch (Endermanch, YouTuber);
