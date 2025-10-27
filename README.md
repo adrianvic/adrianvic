@@ -7,7 +7,7 @@
 
 Hello, world!
 
-I am Adrian Victor, currently 16 years old and learning a lot about programming. I'm a computing entusiast with focus on FOSS, information security and in building a strong foundation of programming knowledge to allow me to have my own projects among a good portfolio.
+I am Adrian Victor, currently 17 years old and learning a lot about programming. I'm a computing entusiast with focus on FOSS, information security and in building a strong foundation of programming knowledge to allow me to have my own projects among a good portfolio.
 
 ## I'm...
 - ...studying Computing at IFCC (Santa Catarina, Brazil)
