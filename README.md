@@ -1,24 +1,13 @@
-<div id="badges">
-  <a href="discordapp.com/users/681643259764015116">
-  <img src="https://img.shields.io/badge/Discord-black?logo=discord&logoColor=blue&style=flat-square" alt="Midori at Discord"/>
-  </a>
-  <img <img src="https://komarev.com/ghpvc/?username=adrianvic&style=flat-square&color=gray"/>
-</div>
+![View counter](https://komarev.com/ghpvc/?username=adrianvic&style=flat-square&color=red)
+![Discord Static Badge](https://img.shields.io/badge/%40adrianvic-Black?style=social&logo=Discord&logoColor=Blue&label=Discord&link=https%3A%2F%2Fdiscordapp.com%2Fusers%2F681643259764015116)
+![E-mail Static Badge](https://img.shields.io/badge/adrianvictor%40disroot.org-Black?style=social&logo=Disroot&logoColor=Red&label=E-mail&link=mailto%3A%2F%2Fadrianvictor%40disroot.org)
+![Modrinth Static Badge](https://img.shields.io/badge/tenkumabear-Black?style=social&logo=Modrinth&logoColor=Green&label=Modrinth&link=https%3A%2F%2Fmodrinth.com%2Fusers%2Ftenkumabear)
+![YouTube Static Badge](https://img.shields.io/badge/adrianvictor8-Black?style=social&logo=YouTube&logoColor=Red&label=YouTube&link=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCOVn3w66w6FZ03pqMcukGNQ)
 
-Hello, world!
+**Hi, internet!**
 
-I am Adrian Victor, currently 17 years old and learning a lot about programming. I'm a computing entusiast with focus on FOSS, information security and in building a strong foundation of programming knowledge to allow me to have my own projects among a good portfolio.
+I'm Adrian Victor, known on-line as tenkuma. I have a [blog](https://adrianvic.github.io/) in my website, go take a look!
 
-## I'm...
-- ...studying Computing at IFCC (Santa Catarina, Brazil)
-- ...not focused in any big project.
-- ...learning Java, Python and MySQL.
-- ...learning music production.
+Talking with those beeping machines is my passion. I mainly make Minecraft plugins for fun, however I like many other aspects of computing and electronics, like servers and self-hosting. I'm always into something different.
 
-## Plans
-- I plan to learn Rust, C++, C, and Pascal;
-
-## My inspirations
-- @endermanch (Endermanch, YouTuber);
-- Gabriel Pato (Ethical hacker);
-- Jeff Geerling (YouTuber).
+_“Fantasy is not a crime, find your castle in the sky”_
