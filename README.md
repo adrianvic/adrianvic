@@ -12,3 +12,4 @@ _“Fantasy is not a crime, find your castle in the sky”_ - forgot to mention,
 ![Modrinth Static Badge](https://img.shields.io/badge/tenkumabear-Black?style=social&logo=Modrinth&logoColor=Green&label=Modrinth&link=https%3A%2F%2Fmodrinth.com%2Fusers%2Ftenkumabear)
 ![YouTube Static Badge](https://img.shields.io/badge/adrianvictor8-Black?style=social&logo=YouTube&logoColor=Red&label=YouTube&link=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCOVn3w66w6FZ03pqMcukGNQ)
 ![Discord Static Badge](https://img.shields.io/badge/adrianvic-Black?style=social&logo=Discord&logoColor=Blue&label=Discord&link=https%3A%2F%2Fdiscordapp.com%2Fusers%2F681643259764015116)
+![Arch User Repository Static Badge](https://img.shields.io/badge/tenkuma-Black?style=social&logo=archlinux&logoColor=Red&label=AUR&link=https%3A%2F%2Faur.archlinux.org%2Faccount%2Ftenkuma)
